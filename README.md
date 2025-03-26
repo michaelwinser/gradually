@@ -4,4 +4,4 @@ The EF3SCL specification (also known as _gradually_) is an internal framework de
 
 The project is in a very early stage, and feedback is currently being solicited from leaders within Eclipse Foundation projects, notably the Eclipse Foundation Architecture Council.
 
-This repo is also testing the use of SLSA Source provenance.
+This repo is also testing the use of SLSA Source provenance. This repo has committed a pledge of SLSA Source L3 to https://github.com/slsa-framework/slsa-source-poc/tree/main/policy/github.com/michaelwinser/gradually
